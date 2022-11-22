@@ -214,6 +214,23 @@ https://m3u-editor.com/serve/eae00dd0-5376-11ed-93c7-1b3b80c18eef/667633027
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="OLAHRAGA",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 1
+https://d18a31n38iibvt.cloudfront.net/replay/sporfie-server-cam-10867e/event_-NHP--pEKhWeBwitLHqS_c7068c_jkmn/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 2
+https://cdn.raino.xyz/hls/stream1.m3u8|Referer=https://bdnewszh.com/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 3
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 4
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 5
+http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 6
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 7
+https://s@stream.ovochannel.com/live/abr_s-1/live/s-1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 8
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
 ######### CHANNEL ENTERTAINMENT ########
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/Premium-tv-id.png" group-title="HIBURAN",Music Channel

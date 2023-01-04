@@ -32,10 +32,12 @@ https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 https://liveanevia.mncnow.id:443/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="LOKAL",KOMPAS TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="cnn indonesia hd" tvg-logo="https://i.ibb.co/GVqKN0m/cnn-indonesia-home-tv.png" group-title="LOKAL",CNN Indonesia HD
-http://www.goldentv.tech:25461/live/Angga12/Angga12/25735.m3u8
+#EXTINF:-1 tvg-name="cnn indonesia" tvg-logo="https://static.mncnow.id/images/channel/d5be4187/5d37_r32.jpg" group-title="LOKAL",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+#EXTINF:-1 tvg-name="cnn indonesia" tvg-logo="https://static.mncnow.id/images/channel/d5be4187/5d37_r32.jpg" group-title="LOKAL",CNN INDONESIA HD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="cnbc indonesia hd" tvg-logo="https://i.ibb.co/hyWjnZ7/cnbc-indonesia-home-tv.png" group-title="LOKAL",CNBC Indonesia HD
-http://www.goldentv.tech:25461/live/Angga12/Angga12/25736.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-Premium-channel-id.png" group-title="LOKAL",BERITA SATU Premium
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png" group-title="LOKAL",METRO TV
@@ -66,9 +68,9 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Scz6YSx/THRL-S1.png" group-title="FILM",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxy_big.png?v=1" group-title="FILM",Galaxy
-http://www.goldentv.tech:25461/live/Angga12/Angga12/25981.m3u8
+https://live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png?v=1" group-title="FILM",Galaxy Premium
-http://www.goldentv.tech:25461/live/Angga12/Angga12/25982.m3u8
+https://live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_imc_big.png?v=1" group-title="FILM",IMC
 https://stream-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.ibb.co/JpRSxCj/unnamed-16-modified.png" group-title="FILM",FLIK
@@ -213,23 +215,6 @@ https://m3u-editor.com/serve/eae00dd0-5376-11ed-93c7-1b3b80c18eef/667633026
 https://m3u-editor.com/serve/eae00dd0-5376-11ed-93c7-1b3b80c18eef/667633027
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="OLAHRAGA",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 1
-https://d18a31n38iibvt.cloudfront.net/replay/sporfie-server-cam-10867e/event_-NHP--pEKhWeBwitLHqS_c7068c_jkmn/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 2
-https://cdn.raino.xyz/hls/stream1.m3u8|Referer=https://bdnewszh.com/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 3
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 4
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 5
-http://195.29.70.82/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 6
-https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 7
-https://s@stream.ovochannel.com/live/abr_s-1/live/s-1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/1200px-2022_FIFA_World_Cup.svg.png" group-title="QATAR ALTERNATIF",ALTERNATIF 8
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
 ######### CHANNEL ENTERTAINMENT ########
 

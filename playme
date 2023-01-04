@@ -79,6 +79,10 @@ https://live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-H
 https://live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 #EXTINF:-1 tvg-id="Flik" tvg-logo="https://i.ibb.co/JpRSxCj/unnamed-16-modified.png" group-title="FILM",FLIK
 http://iptvid.my.id/hmm/flik.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0PMnwbB/20220926-161425.png" group-title="Film",Paramount Network
+http://iptvid.my.id/hmm/paramount.m3u8
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.postimg.cc/bJHjcpzW/20220927-135948.png" group-title="Film",SONY PIX
+https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851" group-title="FILM",ACTION MOVIES
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="dtg the movies (indonesia subtittle)" tvg-logo="https://www.dropbox.com/s/xbi9e9fy1huead0/dtg%20the%20movies.png?dl=1" group-title="FILM",DTG The Movies (Indonesia Subtittle)

@@ -62,7 +62,7 @@ https://liveanevia.mncnow.id:443/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 ######### CHANNEL FILM ########
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7zLNYK/HBOSIGID-S1.png" group-title="FILM",HBO Signature
-https://live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brpqvXS/HBO-S1.png" group-title="FILM",HBO
 http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zRXw71q/CINEMAXXID-S1.png" group-title="FILM",CINEMAX

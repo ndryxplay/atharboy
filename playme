@@ -64,13 +64,13 @@ https://liveanevia.mncnow.id:443/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F7zLNYK/HBOSIGID-S1.png" group-title="FILM",HBO Signature
 https://live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brpqvXS/HBO-S1.png" group-title="FILM",HBO
-https://live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zRXw71q/CINEMAXXID-S1.png" group-title="FILM",CINEMAX
-https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M8W1CN1/HBOFAMID-S1.png" group-title="FILM",HBO Family
-https://live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/197055.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mvzLn4/HB-HITS-S1.png" group-title="FILM",HBO HITS
-https://live-cdn.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+http://gamsgo.cyou:8080/live/iptvturk/ee1aafb3d9/196480.ts
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="FILM",HITS Movies
 https://live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Scz6YSx/THRL-S1.png" group-title="FILM",Thrill
